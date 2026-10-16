@@ -1,0 +1,6 @@
+# Regulation backup file
+src/regulation.bin.prev
+
+## Smithbox configuration files
+src/.smithbox
+src/project.json
