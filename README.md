@@ -10,3 +10,5 @@
 </div>
 
 ## Modifications list
+
+- Made **reviving allies easier** by adjusting revive requirements to `50`, `100`, and `150` (previously `40`, `90`, and `240`) and standardizing revive rate decay to `10%` (previously `5%`, `10%`, and `15%`).
