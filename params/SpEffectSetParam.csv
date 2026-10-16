@@ -41,13 +41,13 @@ ID,Name,spEffectId1,spEffectId2,spEffectId3,spEffectId4
 102030,,4805,-1,-1,-1
 102040,,4806,-1,-1,-1
 102050,,4807,-1,-1,-1
-102100,,90000,-1,-1,-1
-102110,,90010,-1,-1,-1
-102120,,90020,-1,-1,-1
-102130,,90030,-1,-1,-1
-102140,,90040,-1,-1,-1
-102150,,90300,-1,-1,-1
-102160,,90060,-1,-1,-1
+102100,Set: Disable Poison,90000,-1,-1,-1
+102110,Set: Disable Rot,90010,-1,-1,-1
+102120,Set: Disable Blood Loss,90020,-1,-1,-1
+102130,Set: Disable Death Blight,90030,-1,-1,-1
+102140,Set: Disable Frostbite,90040,-1,-1,-1
+102150,Set: Disable Sleep,90300,-1,-1,-1
+102160,Set: Disable Madness,90060,-1,-1,-1
 103000,,8085,-1,-1,-1
 103010,,8081,-1,-1,-1
 103020,,8086,-1,-1,-1
@@ -68,32 +68,32 @@ ID,Name,spEffectId1,spEffectId2,spEffectId3,spEffectId4
 108110,,4460,4461,4465,-1
 109000,,4301,-1,-1,-1
 109010,,4300,-1,-1,-1
-110000,,4450,7600,-1,-1
-110010,,4450,7610,-1,-1
-110015,,4450,7615,-1,-1
-110020,,4450,7620,-1,-1
-110030,,4450,7630,-1,-1
-110040,,4450,7640,-1,-1
-110100,,4451,7600,-1,-1
-110110,,4451,7610,-1,-1
-110115,,4451,7615,-1,-1
-110120,,4451,7620,-1,-1
-110130,,4451,7630,-1,-1
-110140,,4451,7640,-1,-1
-110200,,4452,7600,-1,-1
-110210,,4452,7610,-1,-1
-110215,,4452,7615,-1,-1
-110220,,4452,7620,-1,-1
-110230,,4452,7630,-1,-1
-110240,,4452,7640,-1,-1
-110300,,4453,7600,-1,-1
-110310,,4453,7610,-1,-1
-110315,,4453,7615,-1,-1
-110320,,4453,7620,-1,-1
-110330,,4453,7630,-1,-1
-110340,,4453,7640,-1,-1
-110980,,4450,7620,-1,-1
-110990,,4804,-1,-1,-1
+110000,Set: Condemned - VFX + Scaling,4450,7600,-1,-1
+110010,Set: Condemned - VFX + Scaling,4450,7610,-1,-1
+110015,Set: Condemned - VFX + Scaling,4450,7615,-1,-1
+110020,Set: Condemned - VFX + Scaling,4450,7620,-1,-1
+110030,Set: Condemned - VFX + Scaling,4450,7630,-1,-1
+110040,Set: Condemned - VFX + Scaling,4450,7640,-1,-1
+110100,Set: Condemned - VFX + Scaling,4451,7600,-1,-1
+110110,Set: Condemned - VFX + Scaling,4451,7610,-1,-1
+110115,Set: Condemned - VFX + Scaling,4451,7615,-1,-1
+110120,Set: Condemned - VFX + Scaling,4451,7620,-1,-1
+110130,Set: Condemned - VFX + Scaling,4451,7630,-1,-1
+110140,Set: Condemned - VFX + Scaling,4451,7640,-1,-1
+110200,Set: Condemned - VFX + Scaling,4452,7600,-1,-1
+110210,Set: Condemned - VFX + Scaling,4452,7610,-1,-1
+110215,Set: Condemned - VFX + Scaling,4452,7615,-1,-1
+110220,Set: Condemned - VFX + Scaling,4452,7620,-1,-1
+110230,Set: Condemned - VFX + Scaling,4452,7630,-1,-1
+110240,Set: Condemned - VFX + Scaling,4452,7640,-1,-1
+110300,Set: Condemned - VFX + Scaling,4453,7600,-1,-1
+110310,Set: Condemned - VFX + Scaling,4453,7610,-1,-1
+110315,Set: Condemned - VFX + Scaling,4453,7615,-1,-1
+110320,Set: Condemned - VFX + Scaling,4453,7620,-1,-1
+110330,Set: Condemned - VFX + Scaling,4453,7630,-1,-1
+110340,Set: Condemned - VFX + Scaling,4453,7640,-1,-1
+110980,Set: Condemned - VFX + Scaling,4450,7620,-1,-1
+110990,Set: Condemned - VFX + Scaling,4804,-1,-1,-1
 111000,,4450,-1,-1,-1
 111010,,4450,-1,-1,-1
 111015,,4450,-1,-1,-1
@@ -142,55 +142,55 @@ ID,Name,spEffectId1,spEffectId2,spEffectId3,spEffectId4
 112320,,4448,-1,-1,-1
 112330,,4448,-1,-1,-1
 112340,,4448,-1,-1,-1
-113000,,4480,7200,-1,-1
-113010,,4480,7210,-1,-1
-113015,,4480,7215,-1,-1
-113020,,4480,7220,-1,-1
-113030,,4480,7230,-1,-1
-113040,,4480,7240,-1,-1
-113100,,4481,7200,-1,-1
-113110,,4481,7210,-1,-1
-113115,,4481,7215,-1,-1
-113120,,4481,7220,-1,-1
-113130,,4481,7230,-1,-1
-113140,,4481,7240,-1,-1
-113200,,4482,7200,-1,-1
-113210,,4482,7210,-1,-1
-113215,,4482,7215,-1,-1
-113220,,4482,7220,-1,-1
-113230,,4482,7230,-1,-1
-113240,,4482,7240,-1,-1
-113241,,4482,7241,-1,-1
-113300,,4483,7200,-1,-1
-113310,,4483,7210,-1,-1
-113315,,4483,7215,-1,-1
-113320,,4483,7220,-1,-1
-113330,,4483,7230,-1,-1
-113340,,4483,7240,-1,-1
-113500,,4480,7200,4485,-1
-113510,,4480,7210,4485,-1
-113515,,4480,7215,4485,-1
-113520,,4480,7220,4485,-1
-113530,,4480,7230,4485,-1
-113540,,4480,7240,4485,-1
-113600,,4481,7200,4485,-1
-113610,,4481,7210,4485,-1
-113615,,4481,7215,4485,-1
-113620,,4481,7220,4485,-1
-113630,,4481,7230,4485,-1
-113640,,4481,7240,4485,-1
-113700,,4482,7200,4485,-1
-113710,,4482,7210,4485,-1
-113715,,4482,7215,4485,-1
-113720,,4482,7220,4485,-1
-113730,,4482,7230,4485,-1
-113740,,4482,7240,4485,-1
-113800,,4483,7200,4485,-1
-113810,,4483,7210,4485,-1
-113815,,4483,7215,4485,-1
-113820,,4483,7220,4485,-1
-113830,,4483,7230,4485,-1
-113840,,4483,7240,4485,-1
+113000,Set: Deep Night Mutation - VFX + Scaling,4480,7200,-1,-1
+113010,Set: Deep Night Mutation - VFX + Scaling,4480,7210,-1,-1
+113015,Set: Deep Night Mutation - VFX + Scaling,4480,7215,-1,-1
+113020,Set: Deep Night Mutation - VFX + Scaling,4480,7220,-1,-1
+113030,Set: Deep Night Mutation - VFX + Scaling,4480,7230,-1,-1
+113040,Set: Deep Night Mutation - VFX + Scaling,4480,7240,-1,-1
+113100,Set: Deep Night Mutation - VFX + Scaling,4481,7200,-1,-1
+113110,Set: Deep Night Mutation - VFX + Scaling,4481,7210,-1,-1
+113115,Set: Deep Night Mutation - VFX + Scaling,4481,7215,-1,-1
+113120,Set: Deep Night Mutation - VFX + Scaling,4481,7220,-1,-1
+113130,Set: Deep Night Mutation - VFX + Scaling,4481,7230,-1,-1
+113140,Set: Deep Night Mutation - VFX + Scaling,4481,7240,-1,-1
+113200,Set: Deep Night Mutation - VFX + Scaling,4482,7200,-1,-1
+113210,Set: Deep Night Mutation - VFX + Scaling,4482,7210,-1,-1
+113215,Set: Deep Night Mutation - VFX + Scaling,4482,7215,-1,-1
+113220,Set: Deep Night Mutation - VFX + Scaling,4482,7220,-1,-1
+113230,Set: Deep Night Mutation - VFX + Scaling,4482,7230,-1,-1
+113240,Set: Deep Night Mutation - VFX + Scaling,4482,7240,-1,-1
+113241,Set: Deep Night Mutation - VFX + Scaling,4482,7241,-1,-1
+113300,Set: Deep Night Mutation - VFX + Scaling,4483,7200,-1,-1
+113310,Set: Deep Night Mutation - VFX + Scaling,4483,7210,-1,-1
+113315,Set: Deep Night Mutation - VFX + Scaling,4483,7215,-1,-1
+113320,Set: Deep Night Mutation - VFX + Scaling,4483,7220,-1,-1
+113330,Set: Deep Night Mutation - VFX + Scaling,4483,7230,-1,-1
+113340,Set: Deep Night Mutation - VFX + Scaling,4483,7240,-1,-1
+113500,Set: Deep Night Mutation - VFX + Scaling,4480,7200,4485,-1
+113510,Set: Deep Night Mutation - VFX + Scaling,4480,7210,4485,-1
+113515,Set: Deep Night Mutation - VFX + Scaling,4480,7215,4485,-1
+113520,Set: Deep Night Mutation - VFX + Scaling,4480,7220,4485,-1
+113530,Set: Deep Night Mutation - VFX + Scaling,4480,7230,4485,-1
+113540,Set: Deep Night Mutation - VFX + Scaling,4480,7240,4485,-1
+113600,Set: Deep Night Mutation - VFX + Scaling,4481,7200,4485,-1
+113610,Set: Deep Night Mutation - VFX + Scaling,4481,7210,4485,-1
+113615,Set: Deep Night Mutation - VFX + Scaling,4481,7215,4485,-1
+113620,Set: Deep Night Mutation - VFX + Scaling,4481,7220,4485,-1
+113630,Set: Deep Night Mutation - VFX + Scaling,4481,7230,4485,-1
+113640,Set: Deep Night Mutation - VFX + Scaling,4481,7240,4485,-1
+113700,Set: Deep Night Mutation - VFX + Scaling,4482,7200,4485,-1
+113710,Set: Deep Night Mutation - VFX + Scaling,4482,7210,4485,-1
+113715,Set: Deep Night Mutation - VFX + Scaling,4482,7215,4485,-1
+113720,Set: Deep Night Mutation - VFX + Scaling,4482,7220,4485,-1
+113730,Set: Deep Night Mutation - VFX + Scaling,4482,7230,4485,-1
+113740,Set: Deep Night Mutation - VFX + Scaling,4482,7240,4485,-1
+113800,Set: Deep Night Mutation - VFX + Scaling,4483,7200,4485,-1
+113810,Set: Deep Night Mutation - VFX + Scaling,4483,7210,4485,-1
+113815,Set: Deep Night Mutation - VFX + Scaling,4483,7215,4485,-1
+113820,Set: Deep Night Mutation - VFX + Scaling,4483,7220,4485,-1
+113830,Set: Deep Night Mutation - VFX + Scaling,4483,7230,4485,-1
+113840,Set: Deep Night Mutation - VFX + Scaling,4483,7240,4485,-1
 114040,,4480,99830,-1,-1
 114140,,4481,99830,-1,-1
 114240,,4482,99830,-1,-1

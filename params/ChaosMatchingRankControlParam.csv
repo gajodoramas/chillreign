@@ -1,6 +1,6 @@
 ID,Name,cursedUncommonRate,cursedRareRate,mapChallengeWeight_Map,mapChallengeWeight_Nightlord,mapChallengeWeight_None,cataclysmWeight_0,cataclysmWeight_1,cataclysmWeight_2,endPadding
-1,,25,40,0,0,100,0,50,50,[0|0|0|0]
-2,,25,40,0,0,100,0,50,50,[0|0|0|0]
-3,,25,40,10,10,80,0,25,75,[0|0|0|0]
-4,,25,40,10,10,80,0,10,90,[0|0|0|0]
-5,,25,40,10,10,80,0,5,95,[0|0|0|0]
+1,Depth 1,25,40,0,0,100,0,50,50,[0|0|0|0]
+2,Depth 2,25,40,0,0,100,0,50,50,[0|0|0|0]
+3,Depth 3,25,40,10,10,80,0,25,75,[0|0|0|0]
+4,Depth 4,25,40,10,10,80,0,10,90,[0|0|0|0]
+5,Depth 5,25,40,10,10,80,0,5,95,[0|0|0|0]
