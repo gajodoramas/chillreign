@@ -1,0 +1,2 @@
+ID,Name,AssetId,SlotNo,CreateConditionType,padding0,TransitionSrcWeather,TransitionDstWeather,ElapsedTimeCheckweather,padding1,ElapsedTime,CreateDelayTime,CreateProbability,LifeTime,FadeTime,EnableCreateTimeMin,EnableCreateTimeMax,CreatePoint0,CreatePoint1,CreatePoint2,CreatePoint3,CreateAssetLimitId0,CreateAssetLimitId1,CreateAssetLimitId2,CreateAssetLimitId3,Reserved2
+0,,0,0,0,[0|0|0],-1,-1,-1,[0|0],0,-1,100,600,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,[0|0|0|0]

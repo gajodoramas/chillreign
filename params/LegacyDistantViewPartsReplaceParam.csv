@@ -1,0 +1,2 @@
+ID,Name,TargetMapId,TargetEventId,SrcAssetId,SrcAssetPartsNo,DstAssetId,DstAssetPartsNo,SrcAssetIdRangeMin,SrcAssetIdRangeMax,DstAssetIdRangeMin,DstAssetIdRangeMax,LimitedMapRegionId0,LimitedMapRegionId1,LimitedMapRegionId2,LimitedMapRegionId3,reserve,LimitedMapRegionAssetId,LimitedMapRegioAssetPartsNo,LimitedMapRegioAssetIdRangeMin,LimitedMapRegioAssetIdRangeMax
+0,,99999999,300,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,[0|0|0|0],-1,-1,-1,-1

@@ -1,0 +1,7 @@
+ID,Name,priority,forcePlay,pad1,normalWhite,umbasaWhite,berserkerWhite,sinnerHeroWhite,normalBlack,umbasaBlack,berserkerBlack,forceJoinBlack,forceJoinUmbasaBlack,forceJoinBerserkerBlack,sinnerHunterVisitor,redHunterVisitor,guardianOfBossVisitor,guardianOfForestMapVisitor,guardianOfAnolisVisitor,rosaliaBlack,forceJoinRosaliaBlack,redHunterVisitor2,npc1,npc2,npc3,npc4,battleRoyal,npc5,npc6,npc7,npc8,npc9,npc10,npc11,npc12,npc13,npc14,npc15,npc16,forceJoinBlack_B,normalWhite_Npc,forceJoinBlack_Npc,forceJoinBlack_B_Npc,forceJoinBlack_C_Npc,pad2
+0,,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+270,,0,1,0,2701430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+271,,3,1,0,2700430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+280,,2,1,0,3000300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+281,,2,1,0,3000301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+999,,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]

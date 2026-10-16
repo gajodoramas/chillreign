@@ -1,0 +1,5 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,triggerSpEffectId,npcParamId,npcThinkParamId,activeSpEffectId,inactiveSpEffectId,x_offset,z_offset,y_angle,appearOnAroundSekihi,disablePCTargetShare,pcFollowType,Reserve,dopingSpEffect_lv0,dopingSpEffect_lv1,dopingSpEffect_lv2,dopingSpEffect_lv3,dopingSpEffect_lv4,dopingSpEffect_lv5,dopingSpEffect_lv6,dopingSpEffect_lv7,dopingSpEffect_lv8,dopingSpEffect_lv9,dopingSpEffect_lv10,npcPlayerInitParamId,generateAnimId,usageShortcutTextId,unknown_2,iconId,baseDopingSpEffectId,padding
+0,,0,0,[0|0|0],-1,-1,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,-1,-1,-1,[0|0|0|0]
+27000000,,0,0,[0|0|0],270000,137030000,137030000,705060,705061,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1830,332002,41301,41401,290000,[0|0|0|0]
+27100000,,0,0,[0|0|0],271000,143400000,143400000,705070,705071,-3,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1,1830,332001,41300,41400,290000,[0|0|0|0]
+27200000,,0,0,[0|0|0],272000,149610000,149610000,705080,705081,-5,0.1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1,1830,332003,41302,41402,290000,[0|0|0|0]
