@@ -1,0 +1,10 @@
+# Elden Ring Nightreign Chillreign mod
+
+profileVersion = "v1"
+savefile = "NR0000.chillreign"
+
+[[supports]]
+game = "nightreign"
+
+[[packages]]
+path = "src"
