@@ -1,19 +1,40 @@
 # Chillreign
 
-![Calibrations version](https://img.shields.io/badge/Calibrations%20version-v1.03.5-CC8D48)
+![Nightreign calibrations version](https://img.shields.io/badge/Nightreign%20calibrations%20version-v1.03.5-2D74BB)
+![Chillreign version](https://img.shields.io/badge/Chillreign%20version-v1.0-CC8D48)
 
-**Chillreign** is a balance mod for **Elden Ring Nightreign**, made for people who want to enjoy runs without needing to spend all their free time mastering the game.
+**Chillreign** is a balance mod for [**Elden Ring Nightreign**][nr_url], made for people who want to enjoy runs without needing to spend all their free time mastering the game.
 
 <div align=center>
   <img src="https://res.cloudinary.com/vmfp1ov3/image/upload/v1791636985/chillreign_header.webp">
   <br>
 </div>
 
-## Modifications list
 
-- Made **reviving allies easier** by adjusting revive requirements to `50`, `100`, and `150` (previously `40`, `90`, and `240`) and standardizing revive rate decay to `10%` (previously `5%`, `10%`, and `15%`).
-- **Reduced Night's Tide HP damage** by lowering damage values to `5` for the first shrinking phase (previously `15`) and `10` for the second shrinking phase (previously `30`). Also **reduced percentage-based HP damage** for both phases from `2%` to `1%`.
-- **Increase rune gains** by raising the rune gain multiplier to `10` (previously `8`).
-- Changed all six Forgotten Goblets **relic slots to white** for all characters.
+## Modifications summary
+Here are the main changes in **Chillreign**:
+
+- Made reviving allies easier.
+- Reduced Night's Tide HP damage.
+- Increased rune gains.
+- Changed Forgotten Goblets relic slots to white.
+
+*See [`MODIFICATIONS.md`](MODIFICATIONS.md) for the complete change list*.
 
 
+## Requirements
+- [**Elden Ring Nightreign**][nr_url].
+- [**Mod Engine 3**][me3_url].
+
+
+## Mergeable CSV files
+The `CSV` files in [`param`](param) folder contain values changed by **Chillreign** and are provided to allow merging **Chillreign** with other mods.
+They are source data for merging, not a standalone replacement for the game's regulation files.
+
+
+## Help and contributions
+If you find a bug, have an idea for a change, or want to contribute, please get in touch. Suggestions, testing, and contributions are welcome.
+
+
+[nr_url]: https://store.steampowered.com/app/2622380
+[me3_url]: https://github.com/garyttierney/me3
