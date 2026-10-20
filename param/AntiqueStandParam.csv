@@ -1,0 +1,11 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,iconId,heroType,relicSlot1,relicSlot2,relicSlot3,unlockFlag,goodsId,deepRelicSlot1,deepRelicSlot2,deepRelicSlot3,endPadding
+1006,[Wylder] Forgotten Wylder's Goblet,0,0,[0|0|0],19020,1,4,4,4,60610,9921,4,4,4,0
+2006,[Guardian] Forgotten Guardian's Goblet,0,0,[0|0|0],19021,2,4,4,4,60630,9926,4,4,4,0
+3006,[Ironeye] Forgotten Ironeye's Goblet,0,0,[0|0|0],19022,3,4,4,4,60650,9931,4,4,4,0
+4006,[Duchess] Forgotten Duchess' Goblet,0,0,[0|0|0],19023,4,4,4,4,60670,9936,4,4,4,0
+5006,[Raider] Forgotten Raider's Goblet,0,0,[0|0|0],19024,5,4,4,4,60690,9941,4,4,4,0
+6006,[Revenant] Forgotten Revenant's Goblet,0,0,[0|0|0],19025,6,4,4,4,60710,9946,4,4,4,0
+7006,[Recluse] Forgotten Recluse's Goblet,0,0,[0|0|0],19026,7,4,4,4,60730,9951,4,4,4,0
+8006,[Executor] Forgotten Executor's Goblet,0,0,[0|0|0],19027,8,4,4,4,60750,9956,4,4,4,0
+9006,[Scholar] Forgotten Scholar's Goblet,0,0,[0|0|0],19041,9,4,4,4,60770,9906,4,4,4,0
+10006,[Undertaker] Forgotten Undertaker's Goblet,0,0,[0|0|0],19046,10,4,4,4,60790,9916,4,4,4,0

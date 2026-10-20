@@ -1,6 +1,0 @@
-ID,Name,ParamKeyStr,ParamValueStr
-10,,DamageSeId,d990000000
-100,,AuxSendBusId_EnemyOutdoor,_001_Outdoor
-101,,AuxSendBusId_EnemyIndoor,_004_Room_Large
-200,,VolumeFadeOutTime_AfterResult,1
-201,,OnPostResultMenuClose,
