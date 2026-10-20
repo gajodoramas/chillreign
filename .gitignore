@@ -1,6 +1,9 @@
 # Regulation backup file
 src/regulation.bin.prev
 
-## Smithbox configuration files
+# Smithbox configuration files
 src/.smithbox
 src/project.json
+
+# Build output directory
+/build
