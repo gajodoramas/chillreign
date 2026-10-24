@@ -5,3 +5,4 @@ Below is a detailed list of the features of **Chillreign**:
 - Increase rune gains by raising the rune gain multiplier to `10` (previously `8`).
 - Changed all six Forgotten Goblets relic slots to `white` for all characters.
 - Updated the final merchant's inventory to sell `10` units each of *Pickled Turtle Neck*, *Starlight Shards*, *Warming Stone*, *Exalted Flesh*, and *Boiled Crab*, plus `1` unit of *Wending Grace* even in multiplayer.
+- Increased the stack sizes of *pots*, *boluses*, *greases*, *Stonesword Keys*, and most other consumables from `2` or `3` to `5`, *Wending Grace* and *Crystal Tears* from `1` to `2`, and *daggers*, *darts*, and *kukris* from `8` to `25`.

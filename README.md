@@ -1,7 +1,7 @@
 # Chillreign
 
 ![Nightreign calibrations version](https://img.shields.io/badge/Nightreign%20calibrations%20version-v1.03.5-2D74BB)
-![Chillreign version](https://img.shields.io/badge/Chillreign%20version-v2.0-CC8D48)
+![Chillreign version](https://img.shields.io/badge/Chillreign%20version-v3.0-CC8D48)
 
 **Chillreign** is a balance mod for [**Elden Ring Nightreign**][nr_url], made for people who want to enjoy runs without needing to spend all their free time mastering the game.
 
@@ -19,6 +19,7 @@ Here are the main changes in **Chillreign**:
 - Increased rune gains.
 - Changed Forgotten Goblets relic slots to white.
 - Improve final merchant's inventory.
+- Increase stack sizes for most consumable items.
 
 *See [`MODIFICATIONS.md`](MODIFICATIONS.md) for the complete change list*.
 
